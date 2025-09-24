@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Editor",
+  "description": "An intuitive web application that uses the Qwen Image Edit API to allow users to upload an image, provide a text prompt, and receive an AI-edited version of their image. Features include configurable editing parameters and a side-by-side comparison of the original and edited images.",
+  "requestFramePermissions": []
+}
